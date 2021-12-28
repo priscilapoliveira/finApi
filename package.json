@@ -5,6 +5,12 @@
   "repository": "https://github.com/poliveira13/finApi.git",
   "author": "Priscila Oliveira <poliveira13@hotmail.com>",
   "license": "MIT",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.2"
+  },
   "devDependencies": {
     "nodemon": "^2.0.15"
   }

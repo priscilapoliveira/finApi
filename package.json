@@ -1,0 +1,11 @@
+{
+  "name": "finApi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/poliveira13/finApi.git",
+  "author": "Priscila Oliveira <poliveira13@hotmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
